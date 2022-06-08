@@ -1,0 +1,3 @@
+module edunova {
+	java.desktop
+}
